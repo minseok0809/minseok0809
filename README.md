@@ -1,5 +1,5 @@
 🚀 I’m interested in NLP and Coprpus Linguistics.
-<br/>🌱 I’m currently learning Python, C, R, HTML/CSS
+<br/>🌱 I’m currently learning Python, C, R, HTML/CSS.
 <br/>📫 How to reach me by minseokyang0809@gmail.com 
 <br/><br/>
 <a href="https://odanttoi.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white" width=10%></a>
