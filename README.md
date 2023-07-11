@@ -1,4 +1,4 @@
-🚀 I’m interested in NLP and Coprpus Linguistics.
+🚀 I’m interested in NLP and Corpus Linguistics.
 <br/>🌱 I’m currently learning Python, C, R, HTML/CSS.
 <br/>📫 How to reach me by minseokyang0809@gmail.com 
 <br/><br/>
