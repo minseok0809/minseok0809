@@ -9,7 +9,8 @@
 <a href="https://hub.docker.com/u/sandpoz"><img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=Docker&logoColor=white" width=12%></a>&nbsp;
 <a href="https://twitter.com/mseokyang"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" width=5.3%></a>&nbsp;
 <a href="https://wandb.ai/minseok0809"><img src="https://img.shields.io/badge/WandB-000000?style=for-the-badge&logo=weightsandbiases&logoColor=#FFBE00" width=9.7%></a>&nbsp;
-<a href="https://huggingface.co/minseok0809"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces" width=13.7%></a>
+<a href="https://huggingface.co/minseok0809"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces" width=13.7%></a>&nbsp;
+<a href="https://velog.io/@odanttoi/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" width=8.7%></a>
 
 
 
