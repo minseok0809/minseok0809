@@ -1,4 +1,4 @@
-🚀 I’m interested in NLP(Natural Language Processing)
+🚀 I’m interested in Natural Language Processing.
 <br/>🌱 I’m currently learning Python, C, R, HTML/CSS.
 <br/>📫 How to reach me by minseokyang0809@gmail.com 
 <br><br/><br>
